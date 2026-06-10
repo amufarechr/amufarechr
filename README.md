@@ -53,7 +53,6 @@ Built a molecule-level market intelligence pipeline covering Peru's public and p
 
 → [Carril 1 — Portfolio Priority Matrix](https://amufarechr.github.io/demos/andes_solo_carril1.html) · [Carril 2 — Viability Matrix](https://amufarechr.github.io/demos/andes_carril2.html)
 
-*No public repo — proprietary business logic.*
 
 ---
 
@@ -64,7 +63,6 @@ Built a geospatial catchment analysis tool to support site selection for an aqua
 
 → [Live demo](https://amufarechr.github.io/demos/luma_mapa_v3.html)
 
-*No public repo.*
 
 ---
 
